@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>venta de accesorios</title>
+</head>
+
+<body bgcolor ="#33fff3">
+<marquee>Todos los productos van de la mano con el medio ambiente</marquee>
+<p>
+<h1 style= "text-align:center;">Ian Venta de Accesorios.Bicicletas <img src="d:\trabajosHTLM\logo.jpg" alt="Compra lo mejor">
+</h1>
+</p>
+<img src="d:\trabajosHTLM\accesorios.jpg" alt="Compra lo mejor">
+<h2>Bienvenidos a mi página web</h2>
+<h3> Misión: Ofrecer a nuestros clientes accesorios de alta calidad a un comodo precio </h3>
+
+<h4> Tipo de Producto </h4>
+<table border="1">
+<tr>
+<td> luces <img src="d:\trabajosHTLM\luces.jpg" > </td>
+<tr>
+<td> Inflador <img src="d:\trabajosHTLM\inflador.jpg" > </td>
+<tr>
+<td> Portacaramañola <img src="d:\trabajosHTLM\porta.jpg" > </td>
+<tr>
+<td> Protectores  <img src="d:\trabajosHTLM\prot.jpg" ></td>
+<tr>
+<td> Portabicicletas <img src="d:\trabajosHTLM\portavi.jpg" ></td>
+<tr>
+<td> Manillar <img src="d:\trabajosHTLM\mani.jpg" ></td>
+</tr>
+</table>
+
+
+
+<h5>Visión: En el 2026 ser unos de los portales con más venta de accesorios de alta calidad y amigables con el medio ambiente </h5>
+<h6> Contactanos a traves del correo ian.accesorios2024@gmail.com </h6>
+</div>
+
+
+
+</body>
+</html>
